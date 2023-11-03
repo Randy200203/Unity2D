@@ -1,0 +1,4 @@
+repository "R.A.W_VideoJuego@randyachana@cloud"
+  path "/"
+    br "/main"
+    co "/main"
